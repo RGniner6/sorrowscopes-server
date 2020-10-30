@@ -19,5 +19,8 @@
   "devDependencies": {
     "@types/morgan": "^1.9.2",
     "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": "14.8.0"
   }
 }
